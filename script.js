@@ -53,7 +53,7 @@ $(".fight").click(function() {
 });
 
 $(".no-fight").click(function() {
-    $(".story1").text("Okay, it's be peaceful. Hopefully the monster is as well.");
+    $(".story1").text("Okay, let's be peaceful. Hopefully the monster is as well.");
     $(".story2").text("Should we run away and hide or stay and hope it doesn't kill us?");
     $(".decisionP2").show();
     $(".decision1").hide();
